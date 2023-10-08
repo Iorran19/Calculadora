@@ -1,5 +1,6 @@
 # Calculadora
-Um projeto de calculadora simples, utilizando: Javascript, HTML, CSS.
+Um projeto de calculadora simples, utilizando: Javascript, HTML, CSS. 
+Inspiração do canal Prodígio Dev.
 # Funções
 Funções de soma, subtração, divisão e multiplicação.
 # Como executar:
