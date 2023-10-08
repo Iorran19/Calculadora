@@ -13,3 +13,4 @@ Funções de soma, subtração, divisão e multiplicação.
 8. Clique em "Open with Live Server" e prontinho, sua calculadora está funcional.
 
 # Print do Projeto
+![Captura de Tela](Print/CapturadeTela.png)
